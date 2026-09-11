@@ -1,0 +1,39 @@
+Patient Details
+
+Patient: 62-year-old male
+
+Chief Complaint: Severe muscle pain (myalgia) in both legs, dark/tea-colored urine, and general fatigue.
+
+Relevant Medical History: Type 2 Diabetes (managed with Metformin for 5 years), Hyperlipidemia.
+
+Timeline & Medication History
+
+Month 1: Started on Atorvastatin 40 mg daily for high cholesterol.
+
+Month 2: Diagnosed with a localized fungal infection and prescribed Fluconazole 200 mg daily for 14 days.
+
+Day 5 of Antifungal: Patient begins experiencing severe muscle weakness and pain in his thighs and calves.
+
+Day 8 of Antifungal: Patient notices dark brown urine and attends the emergency department.
+
+Lab Results: Creatine Kinase (CK) levels are severely elevated (>10x upper limit of normal), indicating rhabdomyolysis.
+
+Intervention: Atorvastatin and Fluconazole are immediately stopped. IV fluids administered.
+
+Follow-up (2 Weeks): Muscle pain resolves, CK levels and urine color return to normal.
+
+Case Analysis Breakdown
+
+Suspected Reaction: Statin-induced Rhabdomyolysis triggered by a Drug-Drug Interaction.
+
+Suspected Drug: Atorvastatin (interacting with Fluconazole).
+
+Causality Rationale:
+
+Drug Interaction Mechanism: Fluconazole is a strong CYP3A4 inhibitor, which blocks the breakdown of Atorvastatin. This dramatically increases Atorvastatin concentrations in the blood, leading to muscle toxicity.
+
+Temporal Relationship: Symptoms appeared within days of adding Fluconazole to an existing Atorvastatin regimen.
+
+De-challenge: Rapid clinical improvement and normalization of lab values after withholding both medications.
+
+Alternative Causes: Metformin has been taken long-term without issue and does not cause rhabdomyolysis or interact in this manner.
